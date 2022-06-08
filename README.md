@@ -1,2 +1,2 @@
-# thml-css
+# html-css
 not responsive
